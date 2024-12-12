@@ -1,0 +1,19 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+customtkinter = "*"
+pillow = "*"
+openpyxl = "*"
+pandas = "*"
+mysql = "*"
+mysql-connector-python = "*"
+paramiko = "*"
+pyinstaller = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.11"
